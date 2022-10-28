@@ -35,7 +35,8 @@
 }
 
 .task__name,
-.new-task__name {
+.task__input,
+.new-task__input {
   outline: none;
   width: 56%;
   display: inline-block;
